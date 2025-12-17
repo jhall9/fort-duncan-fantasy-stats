@@ -5,8 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export",
-    "deploy:gh-pages": "next build && next export",
+    "deploy:gh-pages": "next build",
     "lint": "next lint",
     "import-data": "tsx data/import-data.ts"
   },
