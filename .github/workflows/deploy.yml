@@ -29,17 +29,6 @@ jobs:
       - name: Build (static export via next.config.js)
         run: npm run build
 
-      - name: Debug repo and output
-        run: |
-          echo "=== workspace ==="
-          pwd
-          ls -la
-          echo "=== out dir (if present) ==="
-          ls -la out || true
-          echo "=== git info ==="
-          git status --porcelain --branch || true
-          git remote -v || true
-
       - name: Configure git for gh-pages
         run: |
           git config --local user.name "github-actions[bot]"
