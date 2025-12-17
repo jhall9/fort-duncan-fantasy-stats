@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,11 +29,27 @@ jobs:
       - name: Build (static export via next.config.js)
         run: npm run build
 
+      - name: Debug repo and output
+        run: |
+          echo "=== workspace ==="
+          pwd
+          ls -la
+          echo "=== out dir (if present) ==="
+          ls -la out || true
+          echo "=== git info ==="
+          git status --porcelain --branch || true
+          git remote -v || true
+
+      - name: Configure git for gh-pages
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
           publish_branch: gh-pages
-          user_name: github-actions[bot]
-          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          allow_empty_commit: true
+          commit_message: "chore(deploy): publish to gh-pages [skip ci]"
