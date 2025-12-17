@@ -1,0 +1,1318 @@
+[
+  {
+    "year": 2024,
+    "team": "Rice-a-Rom(e)",
+    "owner": "Tom Haylon",
+    "position": 1,
+    "finalRank": 12
+  },
+  {
+    "year": 2024,
+    "team": "Real QBs Wear Rib-laces",
+    "owner": "Jennifer Smith",
+    "position": 2,
+    "finalRank": 8
+  },
+  {
+    "year": 2024,
+    "team": "St. Patty and The Gang",
+    "owner": "Bobby Curley",
+    "position": 3,
+    "finalRank": 11
+  },
+  {
+    "year": 2024,
+    "team": "Breece's Sneetches",
+    "owner": "Kelly Rehberg",
+    "position": 4,
+    "finalRank": 6
+  },
+  {
+    "year": 2024,
+    "team": "Trinity City Tornados",
+    "owner": "Maina Musa",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2024,
+    "team": "STL Fantasy Football Team",
+    "owner": "Chris Michalski",
+    "position": 6,
+    "finalRank": 4
+  },
+  {
+    "year": 2024,
+    "team": "Indiana Has Real Assembly Hall",
+    "owner": "Marissa Vinson",
+    "position": 7,
+    "finalRank": 7
+  },
+  {
+    "year": 2024,
+    "team": "MissAmericana and The SB Prince",
+    "owner": "Stephanie Sansone",
+    "position": 8,
+    "finalRank": 9
+  },
+  {
+    "year": 2024,
+    "team": "Ha'way the Ladd",
+    "owner": "Andrew Steier",
+    "position": 9,
+    "finalRank": 1
+  },
+  {
+    "year": 2024,
+    "team": "Je Ne Saquon",
+    "owner": "Jerome Hall",
+    "position": 10,
+    "finalRank": 5
+  },
+  {
+    "year": 2024,
+    "team": "Cooper's Hawks",
+    "owner": "Joshua Rehberg",
+    "position": 11,
+    "finalRank": 3
+  },
+  {
+    "year": 2024,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 12,
+    "finalRank": 10
+  },
+  {
+    "year": 2023,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 1,
+    "finalRank": 3
+  },
+  {
+    "year": 2023,
+    "team": "STL Fantasy Football Team",
+    "owner": "Chris Michalski",
+    "position": 2,
+    "finalRank": 10
+  },
+  {
+    "year": 2023,
+    "team": "All Day Charbonnet",
+    "owner": "Andrew Steier",
+    "position": 3,
+    "finalRank": 5
+  },
+  {
+    "year": 2023,
+    "team": "Team Vinson",
+    "owner": "Marissa Vinson",
+    "position": 4,
+    "finalRank": 12
+  },
+  {
+    "year": 2023,
+    "team": "Slim Pickens",
+    "owner": "Tom Haylon",
+    "position": 5,
+    "finalRank": 4
+  },
+  {
+    "year": 2023,
+    "team": "Flamin Hot Cheetahs",
+    "owner": "Jerome Hall",
+    "position": 6,
+    "finalRank": 1
+  },
+  {
+    "year": 2023,
+    "team": "Oak Cliff Parker Barrows",
+    "owner": "Maina Musa",
+    "position": 7,
+    "finalRank": 9
+  },
+  {
+    "year": 2023,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 8,
+    "finalRank": 8
+  },
+  {
+    "year": 2023,
+    "team": "Knights of Darkness",
+    "owner": "Joshua Rehberg",
+    "position": 9,
+    "finalRank": 6
+  },
+  {
+    "year": 2023,
+    "team": "Poor Men South of Raleigh",
+    "owner": "Bobby Curley",
+    "position": 10,
+    "finalRank": 7
+  },
+  {
+    "year": 2023,
+    "team": "Real QBs Wear Rib-laces",
+    "owner": "Jennifer Smith",
+    "position": 11,
+    "finalRank": 11
+  },
+  {
+    "year": 2023,
+    "team": "MissAmericana and The SB Prince",
+    "owner": "Stephanie Sansone",
+    "position": 12,
+    "finalRank": 2
+  },
+  {
+    "year": 2022,
+    "team": "Last Place: A Maina Offense",
+    "owner": "Maina Musa",
+    "position": 1,
+    "finalRank": 5
+  },
+  {
+    "year": 2022,
+    "team": "Lights, Camera, Jackson",
+    "owner": "Jerome Hall",
+    "position": 2,
+    "finalRank": 6
+  },
+  {
+    "year": 2022,
+    "team": "IT HAS THE JUICE",
+    "owner": "Tom Haylon",
+    "position": 3,
+    "finalRank": 7
+  },
+  {
+    "year": 2022,
+    "team": "STL Fantasy Football Team",
+    "owner": "Chris Michalski",
+    "position": 4,
+    "finalRank": 1
+  },
+  {
+    "year": 2022,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 5,
+    "finalRank": 3
+  },
+  {
+    "year": 2022,
+    "team": "Team Vinson",
+    "owner": "Marissa Vinson",
+    "position": 6,
+    "finalRank": 8
+  },
+  {
+    "year": 2022,
+    "team": "Got That Dawg In Him",
+    "owner": "Bobby Curley",
+    "position": 7,
+    "finalRank": 9
+  },
+  {
+    "year": 2022,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 8,
+    "finalRank": 2
+  },
+  {
+    "year": 2022,
+    "team": "The Turd  Reich",
+    "owner": "Andrew Steier",
+    "position": 9,
+    "finalRank": 12
+  },
+  {
+    "year": 2022,
+    "team": "Gym Tanne Laundry",
+    "owner": "Stephanie Sansone",
+    "position": 10,
+    "finalRank": 4
+  },
+  {
+    "year": 2022,
+    "team": "Gotta Gallup To Get Brown",
+    "owner": "Jennifer Smith",
+    "position": 11,
+    "finalRank": 11
+  },
+  {
+    "year": 2022,
+    "team": "Medium-Weight Players",
+    "owner": "Joshua Rehberg",
+    "position": 12,
+    "finalRank": 10
+  },
+  {
+    "year": 2021,
+    "team": "Team Vinson",
+    "owner": "Marissa Vinson",
+    "position": 1,
+    "finalRank": 8
+  },
+  {
+    "year": 2021,
+    "team": "Gotta Gallup To Get Brown",
+    "owner": "Jennifer Smith",
+    "position": 2,
+    "finalRank": 9
+  },
+  {
+    "year": 2021,
+    "team": "Chicago Fantasy Football Team",
+    "owner": "Chris Michalski",
+    "position": 3,
+    "finalRank": 7
+  },
+  {
+    "year": 2021,
+    "team": "Baker Baker Touchdown Maker",
+    "owner": "Tom Haylon",
+    "position": 4,
+    "finalRank": 10
+  },
+  {
+    "year": 2021,
+    "team": "Dancing in Cubs Kicks",
+    "owner": "Bobby Curley",
+    "position": 5,
+    "finalRank": 1
+  },
+  {
+    "year": 2021,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 6,
+    "finalRank": 12
+  },
+  {
+    "year": 2021,
+    "team": "Gym Tanne Laundry",
+    "owner": "Stephanie Sansone",
+    "position": 7,
+    "finalRank": 2
+  },
+  {
+    "year": 2021,
+    "team": "Pyne, Coan Falling",
+    "owner": "Andrew Steier",
+    "position": 8,
+    "finalRank": 4
+  },
+  {
+    "year": 2021,
+    "team": "Ministry of  [Fitz] Magic",
+    "owner": "Joshua Rehberg",
+    "position": 9,
+    "finalRank": 11
+  },
+  {
+    "year": 2021,
+    "team": "Mr. Currently Limited",
+    "owner": "Jerome Hall",
+    "position": 10,
+    "finalRank": 6
+  },
+  {
+    "year": 2021,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 11,
+    "finalRank": 5
+  },
+  {
+    "year": 2021,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 12,
+    "finalRank": 3
+  },
+  {
+    "year": 2020,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 1,
+    "finalRank": 10
+  },
+  {
+    "year": 2020,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 2,
+    "finalRank": 12
+  },
+  {
+    "year": 2020,
+    "team": "Fighting Nannerpuss",
+    "owner": "Joshua Rehberg",
+    "position": 3,
+    "finalRank": 11
+  },
+  {
+    "year": 2020,
+    "team": "Chicago Fantasy Football Team",
+    "owner": "Chris Michalski",
+    "position": 4,
+    "finalRank": 3
+  },
+  {
+    "year": 2020,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2020,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 6,
+    "finalRank": 7
+  },
+  {
+    "year": 2020,
+    "team": "Kermit Mahomes",
+    "owner": "Andrew Steier",
+    "position": 7,
+    "finalRank": 4
+  },
+  {
+    "year": 2020,
+    "team": "Kerryon My Wayward Son",
+    "owner": "Jennifer Smith",
+    "position": 8,
+    "finalRank": 1
+  },
+  {
+    "year": 2020,
+    "team": "Red Sox 4 Lyfe ~",
+    "owner": "Stephanie Sansone",
+    "position": 9,
+    "finalRank": 9
+  },
+  {
+    "year": 2020,
+    "team": "Chubby Cheetahs ✌️",
+    "owner": "Jerome Hall",
+    "position": 10,
+    "finalRank": 8
+  },
+  {
+    "year": 2020,
+    "team": "Baker Baker Touchdown Maker",
+    "owner": "Tom Haylon",
+    "position": 11,
+    "finalRank": 5
+  },
+  {
+    "year": 2020,
+    "team": "AUTOPICK TEAM BEEP BOOP",
+    "owner": "Alan Y",
+    "position": 12,
+    "finalRank": 6
+  },
+  {
+    "year": 2019,
+    "team": "Kerryon My Wayward Son",
+    "owner": "Jennifer Smith",
+    "position": 1,
+    "finalRank": 8
+  },
+  {
+    "year": 2019,
+    "team": "Chevy Kamara",
+    "owner": "Jerome Hall",
+    "position": 2,
+    "finalRank": 11
+  },
+  {
+    "year": 2019,
+    "team": "O! H!... Oh No...",
+    "owner": "Chris Michalski",
+    "position": 3,
+    "finalRank": 1
+  },
+  {
+    "year": 2019,
+    "team": "The Rise of Jimmy Brisket",
+    "owner": "Andrew Steier",
+    "position": 4,
+    "finalRank": 9
+  },
+  {
+    "year": 2019,
+    "team": "May I Have This Vance?",
+    "owner": "Alan Y",
+    "position": 5,
+    "finalRank": 10
+  },
+  {
+    "year": 2019,
+    "team": "Fighting Nannerpuss",
+    "owner": "Joshua Rehberg",
+    "position": 6,
+    "finalRank": 6
+  },
+  {
+    "year": 2019,
+    "team": "Baker Baker Touchdown Maker",
+    "owner": "Tom Haylon",
+    "position": 7,
+    "finalRank": 2
+  },
+  {
+    "year": 2019,
+    "team": "Chubbs at the Golladay Inn",
+    "owner": "Stephanie Sansone",
+    "position": 8,
+    "finalRank": 12
+  },
+  {
+    "year": 2019,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 9,
+    "finalRank": 7
+  },
+  {
+    "year": 2019,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 10,
+    "finalRank": 4
+  },
+  {
+    "year": 2019,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 11,
+    "finalRank": 3
+  },
+  {
+    "year": 2019,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 12,
+    "finalRank": 5
+  },
+  {
+    "year": 2018,
+    "team": "Gurl Problems",
+    "owner": "Jennifer Smith",
+    "position": 1,
+    "finalRank": 5
+  },
+  {
+    "year": 2018,
+    "team": "What's Da Otter With You",
+    "owner": "Kelly Rehberg",
+    "position": 2,
+    "finalRank": 3
+  },
+  {
+    "year": 2018,
+    "team": "Dabbin' and Flossin'",
+    "owner": "Chris Michalski",
+    "position": 3,
+    "finalRank": 12
+  },
+  {
+    "year": 2018,
+    "team": "New York Little Giants",
+    "owner": "Stephanie Sansone",
+    "position": 4,
+    "finalRank": 10
+  },
+  {
+    "year": 2018,
+    "team": "Bad JuJu",
+    "owner": "Alan Y",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2018,
+    "team": "Fisher's Revenge",
+    "owner": "Dan Geisman",
+    "position": 6,
+    "finalRank": 8
+  },
+  {
+    "year": 2018,
+    "team": "My Little Ponies",
+    "owner": "Jerome Hall",
+    "position": 7,
+    "finalRank": 9
+  },
+  {
+    "year": 2018,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 8,
+    "finalRank": 7
+  },
+  {
+    "year": 2018,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 9,
+    "finalRank": 11
+  },
+  {
+    "year": 2018,
+    "team": "The Fighting Nannerpuss",
+    "owner": "Joshua Rehberg",
+    "position": 10,
+    "finalRank": 4
+  },
+  {
+    "year": 2018,
+    "team": "Baker Baker Touchdown Maker",
+    "owner": "Tom Haylon",
+    "position": 11,
+    "finalRank": 1
+  },
+  {
+    "year": 2018,
+    "team": "Cutler's Last Stand",
+    "owner": "Andrew Steier",
+    "position": 12,
+    "finalRank": 6
+  },
+  {
+    "year": 2017,
+    "team": "Cutler's Last Stand",
+    "owner": "Andrew Steier",
+    "position": 1,
+    "finalRank": 4
+  },
+  {
+    "year": 2017,
+    "team": "Golladay Inn Express",
+    "owner": "Tom Haylon",
+    "position": 2,
+    "finalRank": 1
+  },
+  {
+    "year": 2017,
+    "team": "The Arctic Tigers",
+    "owner": "Joshua Rehberg",
+    "position": 3,
+    "finalRank": 9
+  },
+  {
+    "year": 2017,
+    "team": "Team bYe",
+    "owner": "Alan Y",
+    "position": 4,
+    "finalRank": 5
+  },
+  {
+    "year": 2017,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2017,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 6,
+    "finalRank": 8
+  },
+  {
+    "year": 2017,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 7,
+    "finalRank": 11
+  },
+  {
+    "year": 2017,
+    "team": "The Cowboy's Secret Sauce",
+    "owner": "Alex Metoxen",
+    "position": 8,
+    "finalRank": 10
+  },
+  {
+    "year": 2017,
+    "team": "Clean Cole",
+    "owner": "Jerome Hall",
+    "position": 9,
+    "finalRank": 12
+  },
+  {
+    "year": 2017,
+    "team": "Gurl Problems",
+    "owner": "Jennifer Smith",
+    "position": 10,
+    "finalRank": 3
+  },
+  {
+    "year": 2017,
+    "team": "King Pryor",
+    "owner": "Chris Michalski",
+    "position": 11,
+    "finalRank": 6
+  },
+  {
+    "year": 2017,
+    "team": "Jay Ajayi at Your Cervix",
+    "owner": "Stephanie Sansone",
+    "position": 12,
+    "finalRank": 7
+  },
+  {
+    "year": 2016,
+    "team": "King Pryor",
+    "owner": "Chris Michalski",
+    "position": 1,
+    "finalRank": 1
+  },
+  {
+    "year": 2016,
+    "team": "Nuts/McCubbins 2016",
+    "owner": "Andrew Steier",
+    "position": 2,
+    "finalRank": 8
+  },
+  {
+    "year": 2016,
+    "team": "Valyrian Steelers",
+    "owner": "Alan Y",
+    "position": 3,
+    "finalRank": 12
+  },
+  {
+    "year": 2016,
+    "team": "Gurl Problems",
+    "owner": "Jennifer Smith",
+    "position": 4,
+    "finalRank": 9
+  },
+  {
+    "year": 2016,
+    "team": "The Elusive Moose",
+    "owner": "Joshua Rehberg",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2016,
+    "team": "The Cowboy's Secret Sauce",
+    "owner": "Alex Metoxen",
+    "position": 6,
+    "finalRank": 6
+  },
+  {
+    "year": 2016,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 7,
+    "finalRank": 3
+  },
+  {
+    "year": 2016,
+    "team": "Free Brady",
+    "owner": "Tom Haylon",
+    "position": 8,
+    "finalRank": 7
+  },
+  {
+    "year": 2016,
+    "team": "Team Hall",
+    "owner": "Jerome Hall",
+    "position": 9,
+    "finalRank": 4
+  },
+  {
+    "year": 2016,
+    "team": "Jason Chubbs Pierre-Peterson",
+    "owner": "Stephanie Sansone",
+    "position": 10,
+    "finalRank": 11
+  },
+  {
+    "year": 2016,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 11,
+    "finalRank": 5
+  },
+  {
+    "year": 2016,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 12,
+    "finalRank": 10
+  },
+  {
+    "year": 2015,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 1,
+    "finalRank": 6
+  },
+  {
+    "year": 2015,
+    "team": "The Elusive Moose",
+    "owner": "Joshua Rehberg",
+    "position": 2,
+    "finalRank": 2
+  },
+  {
+    "year": 2015,
+    "team": "The Topszn Regime",
+    "owner": "Tom Haylon",
+    "position": 3,
+    "finalRank": 1
+  },
+  {
+    "year": 2015,
+    "team": "Jason Chubbs Pierre-Peterson",
+    "owner": "Stephanie Sansone",
+    "position": 4,
+    "finalRank": 9
+  },
+  {
+    "year": 2015,
+    "team": "Nuts/McCubbins 2016",
+    "owner": "Andrew Steier",
+    "position": 5,
+    "finalRank": 7
+  },
+  {
+    "year": 2015,
+    "team": "Watch Me Chip, Watch Me J.J.",
+    "owner": "Jennifer Smith",
+    "position": 6,
+    "finalRank": 10
+  },
+  {
+    "year": 2015,
+    "team": "The Cowboy's Secret Sauce",
+    "owner": "Alex Metoxen",
+    "position": 7,
+    "finalRank": 11
+  },
+  {
+    "year": 2015,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 8,
+    "finalRank": 5
+  },
+  {
+    "year": 2015,
+    "team": "Valyrian Steelers",
+    "owner": "Alan Y",
+    "position": 9,
+    "finalRank": 4
+  },
+  {
+    "year": 2015,
+    "team": "This League Is my Ray Rice",
+    "owner": "Chris Michalski",
+    "position": 10,
+    "finalRank": 8
+  },
+  {
+    "year": 2015,
+    "team": "Gronk If You Love Breesus",
+    "owner": "Jerome Hall",
+    "position": 11,
+    "finalRank": 3
+  },
+  {
+    "year": 2015,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 12,
+    "finalRank": 12
+  },
+  {
+    "year": 2014,
+    "team": "The Topszn Regime",
+    "owner": "Tom Haylon",
+    "position": 1,
+    "finalRank": 2
+  },
+  {
+    "year": 2014,
+    "team": "Too Much Money In My Hand",
+    "owner": "Jennifer Smith",
+    "position": 2,
+    "finalRank": 4
+  },
+  {
+    "year": 2014,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 3,
+    "finalRank": 6
+  },
+  {
+    "year": 2014,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 4,
+    "finalRank": 11
+  },
+  {
+    "year": 2014,
+    "team": "Le'Veon A Prayer",
+    "owner": "Stephanie Sansone",
+    "position": 5,
+    "finalRank": 3
+  },
+  {
+    "year": 2014,
+    "team": "Davaris' Ghost Writer",
+    "owner": "Andrew Steier",
+    "position": 6,
+    "finalRank": 5
+  },
+  {
+    "year": 2014,
+    "team": "The Cowboy's Secret Sauce",
+    "owner": "Alex Metoxen",
+    "position": 7,
+    "finalRank": 9
+  },
+  {
+    "year": 2014,
+    "team": "Carverville's Greenbacks",
+    "owner": "Maina Musa",
+    "position": 8,
+    "finalRank": 7
+  },
+  {
+    "year": 2014,
+    "team": "Valyrian Steelers",
+    "owner": "Alan Y",
+    "position": 9,
+    "finalRank": 1
+  },
+  {
+    "year": 2014,
+    "team": "This League Is my Ray Rice",
+    "owner": "Chris Michalski",
+    "position": 10,
+    "finalRank": 12
+  },
+  {
+    "year": 2014,
+    "team": "Cutler's Last Stand",
+    "owner": "Jerome Hall",
+    "position": 11,
+    "finalRank": 8
+  },
+  {
+    "year": 2014,
+    "team": "The Elusive Moose",
+    "owner": "Joshua Rehberg",
+    "position": 12,
+    "finalRank": 10
+  },
+  {
+    "year": 2013,
+    "team": "One Reeson To Miss Everett",
+    "owner": "Jennifer Smith",
+    "position": 1,
+    "finalRank": 3
+  },
+  {
+    "year": 2013,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 2,
+    "finalRank": 11
+  },
+  {
+    "year": 2013,
+    "team": "The Cowboy's Secret Sauce",
+    "owner": "Alex Metoxen",
+    "position": 3,
+    "finalRank": 9
+  },
+  {
+    "year": 2013,
+    "team": "Manziel Memorabilia",
+    "owner": "Stephanie Sansone",
+    "position": 4,
+    "finalRank": 4
+  },
+  {
+    "year": 2013,
+    "team": "Tom Brady Hates His Team",
+    "owner": "Chris Michalski",
+    "position": 5,
+    "finalRank": 10
+  },
+  {
+    "year": 2013,
+    "team": "Team Y",
+    "owner": "Alan Y",
+    "position": 6,
+    "finalRank": 12
+  },
+  {
+    "year": 2013,
+    "team": "The Elusive Moose",
+    "owner": "Joshua Rehberg",
+    "position": 7,
+    "finalRank": 2
+  },
+  {
+    "year": 2013,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 8,
+    "finalRank": 1
+  },
+  {
+    "year": 2013,
+    "team": "it ertz when eifert",
+    "owner": "Andrew Steier",
+    "position": 9,
+    "finalRank": 5
+  },
+  {
+    "year": 2013,
+    "team": "Straight A S",
+    "owner": "Jerome Hall",
+    "position": 10,
+    "finalRank": 7
+  },
+  {
+    "year": 2013,
+    "team": "Cousin Terio's Backup Dancers",
+    "owner": "Tom Haylon",
+    "position": 11,
+    "finalRank": 6
+  },
+  {
+    "year": 2013,
+    "team": "Carverville's Greenbacks",
+    "owner": "Maina Musa",
+    "position": 12,
+    "finalRank": 8
+  },
+  {
+    "year": 2012,
+    "team": "Team Y",
+    "owner": "Alan Y",
+    "position": 1,
+    "finalRank": 3
+  },
+  {
+    "year": 2012,
+    "team": "Carverville's Greenbacks",
+    "owner": "Maina Musa",
+    "position": 2,
+    "finalRank": 7
+  },
+  {
+    "year": 2012,
+    "team": "Easy Peasy Calabrese",
+    "owner": "Jennifer Smith",
+    "position": 3,
+    "finalRank": 10
+  },
+  {
+    "year": 2012,
+    "team": "# yolowood",
+    "owner": "Andrew Steier",
+    "position": 4,
+    "finalRank": 8
+  },
+  {
+    "year": 2012,
+    "team": "Book of Eli",
+    "owner": "Stephanie Sansone",
+    "position": 5,
+    "finalRank": 2
+  },
+  {
+    "year": 2012,
+    "team": "New Orleans Saint Matildas",
+    "owner": "Chris Michalski",
+    "position": 6,
+    "finalRank": 11
+  },
+  {
+    "year": 2012,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 7,
+    "finalRank": 1
+  },
+  {
+    "year": 2012,
+    "team": "Ahmard Hall Me Maybe",
+    "owner": "Jerome Hall",
+    "position": 8,
+    "finalRank": 9
+  },
+  {
+    "year": 2012,
+    "team": "The League's Reckoning",
+    "owner": "Joshua Rehberg",
+    "position": 9,
+    "finalRank": 4
+  },
+  {
+    "year": 2012,
+    "team": "Gangnam Style",
+    "owner": "Alex Metoxen",
+    "position": 10,
+    "finalRank": 12
+  },
+  {
+    "year": 2012,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 11,
+    "finalRank": 5
+  },
+  {
+    "year": 2012,
+    "team": "Winter Is Coming",
+    "owner": "Tom Haylon",
+    "position": 12,
+    "finalRank": 6
+  },
+  {
+    "year": 2011,
+    "team": "Somewhere Over Dwayne Bowe",
+    "owner": "Jerome Hall",
+    "position": 1,
+    "finalRank": 11
+  },
+  {
+    "year": 2011,
+    "team": "this one's for reagan",
+    "owner": "Andrew Steier",
+    "position": 2,
+    "finalRank": 1
+  },
+  {
+    "year": 2011,
+    "team": "TP's Tats",
+    "owner": "Chris Michalski",
+    "position": 3,
+    "finalRank": 7
+  },
+  {
+    "year": 2011,
+    "team": "Throwin' in the Towel",
+    "owner": "Bobby Curley",
+    "position": 4,
+    "finalRank": 2
+  },
+  {
+    "year": 2011,
+    "team": "St. Peter's Tweeters",
+    "owner": "Tom Haylon",
+    "position": 5,
+    "finalRank": 3
+  },
+  {
+    "year": 2011,
+    "team": "Crazy Horse's Revenge",
+    "owner": "Alex Metoxen",
+    "position": 6,
+    "finalRank": 12
+  },
+  {
+    "year": 2011,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 7,
+    "finalRank": 9
+  },
+  {
+    "year": 2011,
+    "team": "Bustin Parties AndFantasyTeams",
+    "owner": "Joshua Rehberg",
+    "position": 8,
+    "finalRank": 6
+  },
+  {
+    "year": 2011,
+    "team": "Team Y",
+    "owner": "Alan Y",
+    "position": 9,
+    "finalRank": 8
+  },
+  {
+    "year": 2011,
+    "team": "Super Chocolate Bears",
+    "owner": "Maina Musa",
+    "position": 10,
+    "finalRank": 5
+  },
+  {
+    "year": 2011,
+    "team": "NY Jets Parole Officers",
+    "owner": "Stephanie Sansone",
+    "position": 11,
+    "finalRank": 10
+  },
+  {
+    "year": 2011,
+    "team": "Don't mess with Texas",
+    "owner": "Jennifer Smith",
+    "position": 12,
+    "finalRank": 4
+  },
+  {
+    "year": 2010,
+    "team": "Carnies Union",
+    "owner": "Dan Geisman",
+    "position": 1,
+    "finalRank": 3
+  },
+  {
+    "year": 2010,
+    "team": "Montana Badazes",
+    "owner": "Quinlan Johnson",
+    "position": 2,
+    "finalRank": 1
+  },
+  {
+    "year": 2010,
+    "team": "Golden's Donut Dynasty",
+    "owner": "Chris Michalski",
+    "position": 3,
+    "finalRank": 7
+  },
+  {
+    "year": 2010,
+    "team": "Murkin' and Swinin'",
+    "owner": "Bobby Curley",
+    "position": 4,
+    "finalRank": 6
+  },
+  {
+    "year": 2010,
+    "team": "ibestrokin it'swhatibedoin",
+    "owner": "Andrew Steier",
+    "position": 5,
+    "finalRank": 9
+  },
+  {
+    "year": 2010,
+    "team": "Woo-Town Clan",
+    "owner": "Tom Haylon",
+    "position": 6,
+    "finalRank": 5
+  },
+  {
+    "year": 2010,
+    "team": "Paranoid Schizophrenics",
+    "owner": "Joshua Rehberg",
+    "position": 7,
+    "finalRank": 2
+  },
+  {
+    "year": 2010,
+    "team": "Albino Blowfish",
+    "owner": "Jerome Hall",
+    "position": 8,
+    "finalRank": 10
+  },
+  {
+    "year": 2010,
+    "team": "Crazy Horse's Revenge",
+    "owner": "Alex Metoxen",
+    "position": 9,
+    "finalRank": 4
+  },
+  {
+    "year": 2010,
+    "team": "Dan's Disco Dinosaurs",
+    "owner": "Dan Honigfort",
+    "position": 10,
+    "finalRank": 8
+  },
+  {
+    "year": 2009,
+    "team": "Teenage Mutant Ninja Turtles",
+    "owner": "Joshua Rehberg",
+    "position": 1,
+    "finalRank": 5
+  },
+  {
+    "year": 2009,
+    "team": "Ocho's Army",
+    "owner": "Tom Haylon",
+    "position": 2,
+    "finalRank": 4
+  },
+  {
+    "year": 2009,
+    "team": "Murkin' and Swinin'",
+    "owner": "Bobby Curley",
+    "position": 3,
+    "finalRank": 6
+  },
+  {
+    "year": 2009,
+    "team": "this is 'sker country",
+    "owner": "Andrew Steier",
+    "position": 4,
+    "finalRank": 10
+  },
+  {
+    "year": 2009,
+    "team": "Dan's Disco Dinosaurs",
+    "owner": "Dan Honigfort",
+    "position": 5,
+    "finalRank": 9
+  },
+  {
+    "year": 2009,
+    "team": "Montana Badazes",
+    "owner": "Quinlan Johnson",
+    "position": 6,
+    "finalRank": 8
+  },
+  {
+    "year": 2009,
+    "team": "BronBron and  Company",
+    "owner": "Chris Michalski",
+    "position": 7,
+    "finalRank": 2
+  },
+  {
+    "year": 2009,
+    "team": "fride chikn in da wite hous",
+    "owner": "Dan Geisman",
+    "position": 8,
+    "finalRank": 1
+  },
+  {
+    "year": 2009,
+    "team": "Crazy Horse's Revenge",
+    "owner": "Alex Metoxen",
+    "position": 9,
+    "finalRank": 7
+  },
+  {
+    "year": 2009,
+    "team": "Flying Dutchmen",
+    "owner": "Jerome Hall",
+    "position": 10,
+    "finalRank": 3
+  }
+]
