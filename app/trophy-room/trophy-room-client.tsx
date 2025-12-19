@@ -18,7 +18,7 @@ export default function TrophyRoomClient({ champions }: TrophyRoomClientProps) {
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-3">
             <div className="text-4xl">
-              {index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : '🏆'}
+              {'🏆'}
             </div>
             <div>
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white">
