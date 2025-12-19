@@ -7,7 +7,8 @@
     "start": "next start",
     "deploy:gh-pages": "next build",
     "lint": "next lint",
-    "import-data": "tsx data/import-data.ts"
+    "import-data": "tsx data/import-data.ts",
+    "export-data": "tsx data/export-to-json.ts"
   },
   "keywords": [],
   "author": "",
