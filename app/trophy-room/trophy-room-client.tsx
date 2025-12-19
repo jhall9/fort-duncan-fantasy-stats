@@ -8,10 +8,7 @@ interface TrophyRoomClientProps {
 
 export default function TrophyRoomClient({ champions }: TrophyRoomClientProps) {
   const TrophyCard = ({ champion, index }: { champion: LeagueChampion; index: number }) => {
-    const isRecent = index < 3
-    const cardClass = isRecent
-      ? "bg-gradient-to-br from-yellow-50 to-yellow-100 dark:from-yellow-900/20 dark:to-yellow-800/20 border-2 border-yellow-400 shadow-xl"
-      : "bg-white dark:bg-dark-surface border border-gray-200 dark:border-dark-border shadow-lg"
+    const cardClass = "bg-white dark:bg-dark-surface border border-gray-200 dark:border-dark-border shadow-lg"
 
     return (
       <div className={`rounded-lg p-6 transition-all duration-200 hover:shadow-2xl ${cardClass}`}>
@@ -29,11 +26,6 @@ export default function TrophyRoomClient({ champions }: TrophyRoomClientProps) {
               </div>
             </div>
           </div>
-          {isRecent && (
-            <div className="px-3 py-1 bg-yellow-200 dark:bg-yellow-800 text-yellow-800 dark:text-yellow-200 text-xs font-bold rounded-full">
-              RECENT
-            </div>
-          )}
         </div>
 
         <div className="space-y-4">
