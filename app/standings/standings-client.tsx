@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
-import { YearlyStanding } from '@/lib/data'
+import { FinishingPosition, YearlyStanding } from '@/lib/data'
 import SortableTable, { Column } from '@/components/SortableTable'
 
 interface StandingsClientProps {
@@ -22,26 +22,41 @@ export default function StandingsClient({ yearlyStandings, years }: StandingsCli
       }))
   }, [yearlyStandings, selectedYear])
 
-  const getPlayoffBadge = (result?: string) => {
-    if (!result || result === 'Missed') return null
-
-    const badges = {
-      'Champion': '🏆 Champion',
-      'Runner-up': '🥈 Runner-up',
-      'Semi-finals': '🥉 Semi-finals',
-      'Quarter-finals': 'Playoffs'
+  const getPlayoffBadge = (result?: string, rank?: number) => {
+    if (!result || result === FinishingPosition.MISSED) return null;
+    if (!rank) {
+      return null;
     }
 
-    const colors = {
-      'Champion': 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200',
-      'Runner-up': 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200',
-      'Semi-finals': 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
-      'Quarter-finals': 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200'
+    const standardPlayoffBadge = {
+          //add emoji badge for generic playoff finishes
+      'badge': '🎖️ Playoffs',
+      'color': 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200'
+    }
+
+    const medalistBadges = {
+      1: {
+        'badge': '🏆 Champion',
+        'color': 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200'
+      },
+      2: {
+        'badge': '🥈 Second',
+        'color': 'bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200'
+      },
+      3: {
+        'badge': '🥉 Third',
+        'color': 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200'
+      }
+    }
+
+    let badgeToUse = standardPlayoffBadge;
+    if (rank in medalistBadges) {
+      badgeToUse = medalistBadges[rank as keyof typeof medalistBadges];
     }
 
     return (
-      <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${colors[result as keyof typeof colors]}`}>
-        {badges[result as keyof typeof badges]}
+      <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${badgeToUse.color}`}>
+        {badgeToUse.badge}
       </span>
     )
   }
@@ -96,14 +111,14 @@ export default function StandingsClient({ yearlyStandings, years }: StandingsCli
     {
       key: 'playoffResult',
       header: 'Playoff Result',
-      render: (value) => getPlayoffBadge(value) || '-'
+      render: (value, row) => getPlayoffBadge(value, row.rank) || '-'
     }
   ]
 
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
-        <h1 className="text-4xl font-bold">Standings by Year</h1>
+        <h1 className="text-4xl font-bold">Final Standings by Year</h1>
         <select
           value={selectedYear}
           onChange={(e) => setSelectedYear(Number(e.target.value))}

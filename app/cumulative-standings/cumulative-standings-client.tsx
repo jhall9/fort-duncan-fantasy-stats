@@ -98,7 +98,7 @@ export default function CumulativeStandingsClient({ records }: CumulativeStandin
           data={dataWithStats}
           columns={columns}
           defaultSortKey="rank"
-          defaultSortDirection="desc"
+          defaultSortDirection="asc"
           rowKey={(row) => row.team}
         />
       </div>

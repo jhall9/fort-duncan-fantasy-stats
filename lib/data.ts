@@ -18,6 +18,14 @@ export interface TeamRecord {
   seasons: number;
 }
 
+export enum FinishingPosition {
+  CHAMPION = "Champion",
+  RUNNER_UP = "Runner-up",
+  SEMI_FINALS = "Semi-finals",
+  QUARTER_FINALS = "Quarter-finals",
+  MISSED = "Missed"
+}
+
 export interface YearlyStanding {
   year: number;
   team: string;
@@ -28,12 +36,7 @@ export interface YearlyStanding {
   ties: number;
   pointsFor: number;
   pointsAgainst: number;
-  playoffResult?:
-    | "Champion"
-    | "Runner-up"
-    | "Semi-finals"
-    | "Quarter-finals"
-    | "Missed";
+  playoffResult?: FinishingPosition;
 }
 
 export interface DraftPosition {
@@ -57,7 +60,7 @@ interface Matchup {
   isChampionship: boolean;
 }
 
-export const leagueName = process.env.NEXT_PUBLIC_LEAGUE_NAME || "Fantasy Football League";
+export const leagueName = "Fort Duncan Football League";
 
 // Type the imported data
 const standings = standingsData as YearlyStanding[];
@@ -553,7 +556,7 @@ export interface LeagueChampion {
 
 export async function getLeagueChampions(): Promise<LeagueChampion[]> {
   return standings
-    .filter((s) => s.playoffResult === "Champion")
+    .filter((s) => s.playoffResult === FinishingPosition.CHAMPION)
     .map((s) => ({
       year: s.year,
       teamName: s.team,
