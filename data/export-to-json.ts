@@ -16,6 +16,7 @@ interface TeamRecord {
   ties: number;
   pointsFor: number;
   pointsAgainst: number;
+  playoffAppearances: number;
   championships: number;
   seasons: number;
 }
@@ -205,6 +206,9 @@ function extractCumulativeRecords(standings: YearlyStanding[]): TeamRecord[] {
       existing.pointsFor += standing.pointsFor;
       existing.pointsAgainst += standing.pointsAgainst;
       existing.seasons += 1;
+      if(standing.playoffResult !== "Missed"){
+        existing.playoffAppearances += 1;
+      }
       if (standing.playoffResult === "Champion") {
         existing.championships += 1;
       }
@@ -216,6 +220,7 @@ function extractCumulativeRecords(standings: YearlyStanding[]): TeamRecord[] {
         ties: standing.ties,
         pointsFor: standing.pointsFor,
         pointsAgainst: standing.pointsAgainst,
+        playoffAppearances: standing.playoffResult !== "Missed" ? 1 : 0,
         championships: standing.playoffResult === "Champion" ? 1 : 0,
         seasons: 1,
       });

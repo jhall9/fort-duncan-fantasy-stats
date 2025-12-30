@@ -4,11 +4,11 @@ import { useMemo } from 'react'
 import { TeamRecord } from '@/lib/data'
 import SortableTable, { Column } from '@/components/SortableTable'
 
-interface RecordsClientProps {
+interface CumulativeStandingsClientProps {
   records: TeamRecord[]
 }
 
-export default function RecordsClient({ records }: RecordsClientProps) {
+export default function CumulativeStandingsClient({ records }: CumulativeStandingsClientProps) {
   const dataWithStats = useMemo(() => {
     return records.map((record, index) => ({
       ...record,
@@ -28,6 +28,10 @@ export default function RecordsClient({ records }: RecordsClientProps) {
       key: 'team',
       header: 'Manager',
       render: (value) => <span className="font-medium">{value}</span>
+    },
+    {
+      key: 'seasons',
+      header: 'Seasons'
     },
     {
       key: 'wlt',
@@ -62,6 +66,11 @@ export default function RecordsClient({ records }: RecordsClientProps) {
       render: (value) => value.toLocaleString()
     },
     {
+      key: 'playoffAppearances',
+      header: 'Playoff Appearances',
+      render: (value) => value.toLocaleString()
+    },
+    {
       key: 'championships',
       header: 'Championships',
       render: (value) => (
@@ -75,10 +84,6 @@ export default function RecordsClient({ records }: RecordsClientProps) {
           {value === 0 && '-'}
         </span>
       )
-    },
-    {
-      key: 'seasons',
-      header: 'Seasons'
     }
   ]
 

@@ -13,6 +13,7 @@ export interface TeamRecord {
   ties: number;
   pointsFor: number;
   pointsAgainst: number;
+  playoffAppearances: number;
   championships: number;
   seasons: number;
 }
@@ -60,7 +61,7 @@ export const leagueName = process.env.NEXT_PUBLIC_LEAGUE_NAME || "Fantasy Footba
 
 // Type the imported data
 const standings = standingsData as YearlyStanding[];
-const records = recordsData as { owner: string; wins: number; losses: number; ties: number; pointsFor: number; pointsAgainst: number; championships: number; seasons: number }[];
+const records = recordsData as { owner: string; wins: number; losses: number; ties: number; pointsFor: number; pointsAgainst: number; playoffAppearances: number; championships: number; seasons: number }[];
 const draftPositions = draftPositionsData as DraftPosition[];
 const matchups = matchupsData as Matchup[];
 const years = yearsData as number[];
@@ -74,6 +75,7 @@ export async function getCumulativeRecords(): Promise<TeamRecord[]> {
     ties: r.ties,
     pointsFor: r.pointsFor,
     pointsAgainst: r.pointsAgainst,
+    playoffAppearances: r.playoffAppearances,
     championships: r.championships,
     seasons: r.seasons,
   }));

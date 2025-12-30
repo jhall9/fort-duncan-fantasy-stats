@@ -1,8 +1,8 @@
 import { getCumulativeRecords } from '@/lib/data'
-import RecordsClient from './records-client'
+import CumulativeStandingsClient from './cumulative-standings-client'
 
 export default async function RecordsPage() {
   const cumulativeRecords = await getCumulativeRecords()
 
-  return <RecordsClient records={cumulativeRecords} />
+  return <CumulativeStandingsClient records={cumulativeRecords} />
 }

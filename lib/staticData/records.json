@@ -6,6 +6,7 @@
     "ties": 0,
     "pointsFor": 17536.2,
     "pointsAgainst": 16529.1,
+    "playoffAppearances": 12,
     "championships": 3,
     "seasons": 16
   },
@@ -16,6 +17,7 @@
     "ties": 3,
     "pointsFor": 17355.22,
     "pointsAgainst": 16880.38,
+    "playoffAppearances": 10,
     "championships": 0,
     "seasons": 16
   },
@@ -26,6 +28,7 @@
     "ties": 1,
     "pointsFor": 17429.44,
     "pointsAgainst": 17125.08,
+    "playoffAppearances": 9,
     "championships": 2,
     "seasons": 16
   },
@@ -36,6 +39,7 @@
     "ties": 1,
     "pointsFor": 16288.24,
     "pointsAgainst": 16516.7,
+    "playoffAppearances": 10,
     "championships": 3,
     "seasons": 16
   },
@@ -46,6 +50,7 @@
     "ties": 1,
     "pointsFor": 17372,
     "pointsAgainst": 17035.32,
+    "playoffAppearances": 7,
     "championships": 1,
     "seasons": 16
   },
@@ -56,6 +61,7 @@
     "ties": 2,
     "pointsFor": 16858.02,
     "pointsAgainst": 17287.559999999998,
+    "playoffAppearances": 8,
     "championships": 3,
     "seasons": 16
   },
@@ -66,6 +72,7 @@
     "ties": 0,
     "pointsFor": 16308,
     "pointsAgainst": 16835.739999999998,
+    "playoffAppearances": 7,
     "championships": 1,
     "seasons": 16
   },
@@ -76,6 +83,7 @@
     "ties": 0,
     "pointsFor": 15360.66,
     "pointsAgainst": 14814.54,
+    "playoffAppearances": 6,
     "championships": 1,
     "seasons": 14
   },
@@ -86,6 +94,7 @@
     "ties": 2,
     "pointsFor": 15058.380000000001,
     "pointsAgainst": 14920.28,
+    "playoffAppearances": 6,
     "championships": 0,
     "seasons": 14
   },
@@ -96,6 +105,7 @@
     "ties": 0,
     "pointsFor": 14418.2,
     "pointsAgainst": 14964.78,
+    "playoffAppearances": 6,
     "championships": 0,
     "seasons": 14
   },
@@ -106,6 +116,7 @@
     "ties": 3,
     "pointsFor": 9791.119999999999,
     "pointsAgainst": 9736.42,
+    "playoffAppearances": 6,
     "championships": 1,
     "seasons": 10
   },
@@ -116,6 +127,7 @@
     "ties": 1,
     "pointsFor": 8585.5,
     "pointsAgainst": 8165.96,
+    "playoffAppearances": 5,
     "championships": 0,
     "seasons": 7
   },
@@ -126,6 +138,7 @@
     "ties": 1,
     "pointsFor": 7715.5,
     "pointsAgainst": 8610.5,
+    "playoffAppearances": 3,
     "championships": 0,
     "seasons": 9
   },
@@ -136,6 +149,7 @@
     "ties": 0,
     "pointsFor": 4436.26,
     "pointsAgainst": 4932.380000000001,
+    "playoffAppearances": 0,
     "championships": 0,
     "seasons": 4
   },
@@ -146,6 +160,7 @@
     "ties": 1,
     "pointsFor": 1618,
     "pointsAgainst": 1545.5,
+    "playoffAppearances": 1,
     "championships": 1,
     "seasons": 2
   },
@@ -156,6 +171,7 @@
     "ties": 0,
     "pointsFor": 1469,
     "pointsAgainst": 1699.5,
+    "playoffAppearances": 0,
     "championships": 0,
     "seasons": 2
   }

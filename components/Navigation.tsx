@@ -9,7 +9,7 @@ export function Navigation() {
   const links = [
     { href: '/', label: 'Home' },
     { href: '/current-season', label: 'Current Season' },
-    { href: '/records', label: 'Cumulative Records' },
+    { href: '/cumulative-standings', label: 'Cumulative Standings' },
     { href: '/standings', label: 'Standings by Year' },
     { href: '/draft', label: 'Draft Positions' },
     { href: '/performance', label: 'Season Performance' },
