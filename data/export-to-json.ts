@@ -168,7 +168,7 @@ function extractYearlyStandings(
         playoffResult = "Champion";
       } else if (finalRank === 2) {
         playoffResult = "Runner-up";
-      } else if (team.playoffSeed != null && team.playoffSeed > 0) {
+      } else if (team.playoffSeed != null && team.playoffSeed > 0 && team.playoffSeed <= 6) {
         playoffResult = "Quarter-finals";
       }
 
