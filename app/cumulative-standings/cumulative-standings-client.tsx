@@ -67,8 +67,7 @@ export default function CumulativeStandingsClient({ records }: CumulativeStandin
     },
     {
       key: 'playoffAppearances',
-      header: 'Playoff Appearances',
-      render: (value) => value.toLocaleString()
+      header: 'Playoff Appearances'
     },
     {
       key: 'championships',
@@ -98,7 +97,7 @@ export default function CumulativeStandingsClient({ records }: CumulativeStandin
         <SortableTable
           data={dataWithStats}
           columns={columns}
-          defaultSortKey="winPct"
+          defaultSortKey="rank"
           defaultSortDirection="desc"
           rowKey={(row) => row.team}
         />
