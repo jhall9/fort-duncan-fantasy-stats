@@ -61,8 +61,6 @@ export default function DraftClient({ draftPositions, years }: DraftClientProps)
       render: (value) => (
         <span className="flex items-center font-medium">
           #{value}
-          {value === 1 && <span className="text-yellow-500 ml-2">👑</span>}
-          {value > 1 && value <= 3 && <span className="text-blue-500 ml-2">⭐</span>}
         </span>
       )
     },
@@ -78,6 +76,24 @@ export default function DraftClient({ draftPositions, years }: DraftClientProps)
       key: 'finalRank',
       header: 'Final Rank',
       render: (value) => value ? `#${value}` : '-'
+    },
+    {
+      key: 'delta',
+      header: 'Delta',
+      render: (value, row) => {
+        if(row.finalRank === null) {
+          return '-';
+        }
+        const delta = row.position - (row.finalRank ?? 0);
+        if (delta < 0) {
+          return <span className="text-red-500">{delta}</span>
+        } else if (delta > 0) {
+          return <span className="text-green-500">+{delta}</span>
+        }
+        else {
+          return '-';
+        }
+      }
     }
   ]
 
