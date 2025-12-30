@@ -8,13 +8,12 @@ export function Navigation() {
 
   const links = [
     { href: '/', label: 'Home' },
-    { href: '/cumulative-standings', label: 'Cumulative Standings' },
     { href: '/standings', label: 'Standings by Year' },
-    { href: '/draft', label: 'Draft Positions' },
     { href: '/performance', label: 'Season Performance' },
     { href: '/superlatives', label: 'Superlatives' },
+    { href: '/draft', label: 'Draft Positions' },
+    { href: '/cumulative-standings', label: 'Cumulative Standings' },
     { href: '/hall-of-fame', label: 'Hall of Fame' },
-    { href: '/trophy-room', label: 'Trophy Room' },
   ]
 
   return (

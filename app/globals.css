@@ -72,3 +72,7 @@ body {
 .dark .dark\:hover\:bg-dark-border:hover {
   background-color: #475569;
 }
+
+.title-text {
+  border-bottom-width: 10px;
+}
