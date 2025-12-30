@@ -49,30 +49,38 @@ export default function TrophyRoomClient({ champions }: TrophyRoomClientProps) {
                 {((champion.record.wins / (champion.record.wins + champion.record.losses + champion.record.ties)) * 100).toFixed(1)}% Win Rate
               </div>
             </div>
-
+            <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3">
+              <div className="text-sm text-gray-600 dark:text-gray-400">Point Differential</div>
+              <div className={`text-lg font-bold ${(champion.pointsFor - champion.pointsAgainst) > 0
+                  ? 'text-green-600 dark:text-green-400'
+                  : 'text-red-600 dark:text-red-400'
+                }`}>
+                {(champion.pointsFor - champion.pointsAgainst) > 0 ? '+' : ''}
+                {(champion.pointsFor - champion.pointsAgainst).toFixed(2)}
+              </div>
+              <div className="text-xs text-gray-500 dark:text-gray-500">
+                {((champion.pointsFor - champion.pointsAgainst) / (champion.record.wins + champion.record.losses + champion.record.ties)).toFixed(2)} ppg
+              </div>
+            </div>
+          </div>
+          <div className="grid grid-cols-2 gap-4">
             <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3">
               <div className="text-sm text-gray-600 dark:text-gray-400">Points For</div>
-              <div className="text-lg font-bold text-green-600 dark:text-green-400">
+              <div className="text-lg font-bold text-gray-900 dark:text-white">
                 {champion.pointsFor.toFixed(2)}
               </div>
               <div className="text-xs text-gray-500 dark:text-gray-500">
                 {(champion.pointsFor / (champion.record.wins + champion.record.losses + champion.record.ties)).toFixed(2)} ppg
               </div>
             </div>
-          </div>
-
-          <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3">
-            <div className="text-sm text-gray-600 dark:text-gray-400">Point Differential</div>
-            <div className={`text-lg font-bold ${
-              (champion.pointsFor - champion.pointsAgainst) > 0
-                ? 'text-green-600 dark:text-green-400'
-                : 'text-red-600 dark:text-red-400'
-            }`}>
-              {(champion.pointsFor - champion.pointsAgainst) > 0 ? '+' : ''}
-              {(champion.pointsFor - champion.pointsAgainst).toFixed(2)}
-            </div>
-            <div className="text-xs text-gray-500 dark:text-gray-500">
-              {champion.pointsAgainst.toFixed(2)} points against
+            <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-3">
+              <div className="text-sm text-gray-600 dark:text-gray-400">Points Against</div>
+              <div className="text-lg font-bold text-gray-900 dark:text-white">
+                {champion.pointsAgainst.toFixed(2)}
+              </div>
+              <div className="text-xs text-gray-500 dark:text-gray-500">
+                {(champion.pointsAgainst / (champion.record.wins + champion.record.losses + champion.record.ties)).toFixed(2)} ppg
+              </div>
             </div>
           </div>
         </div>
