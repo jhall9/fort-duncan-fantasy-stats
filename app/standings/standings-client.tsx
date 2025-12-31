@@ -77,16 +77,6 @@ export default function StandingsClient({ yearlyStandings, years }: StandingsCli
       header: 'Manager'
     },
     {
-      key: 'wlt',
-      header: 'W-L-T',
-      accessor: (row) => row.wlt
-    },
-    {
-      key: 'winPct',
-      header: 'Win %',
-      render: (value) => `${(value * 100).toFixed(1)}%`
-    },
-    {
       key: 'wins',
       header: 'Wins'
     },
@@ -97,6 +87,11 @@ export default function StandingsClient({ yearlyStandings, years }: StandingsCli
     {
       key: 'ties',
       header: 'Ties'
+    },
+    {
+      key: 'winPct',
+      header: 'Win %',
+      render: (value) => `${(value * 100).toFixed(1)}%`
     },
     {
       key: 'pointsFor',

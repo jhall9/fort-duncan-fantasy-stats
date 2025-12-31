@@ -10,7 +10,7 @@ export function Navigation() {
     { href: '/', label: 'Home' },
     { href: '/standings', label: 'Standings by Year' },
     { href: '/performance', label: 'Season Performance' },
-    { href: '/superlatives', label: 'Superlatives' },
+    { href: '/superlatives', label: 'Season Superlatives' },
     { href: '/draft', label: 'Draft Positions' },
     { href: '/cumulative-standings', label: 'Cumulative Standings' },
     { href: '/hall-of-fame', label: 'Hall of Fame' },
