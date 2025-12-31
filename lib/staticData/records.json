@@ -1,113 +1,113 @@
 [
   {
     "owner": "Tom Haylon",
-    "wins": 121,
-    "losses": 94,
+    "wins": 129,
+    "losses": 100,
     "ties": 0,
-    "pointsFor": 17536.2,
-    "pointsAgainst": 16529.1,
-    "playoffAppearances": 12,
+    "pointsFor": 18721.72,
+    "pointsAgainst": 17709.58,
+    "playoffAppearances": 13,
     "championships": 3,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Joshua Rehberg",
-    "wins": 118,
-    "losses": 94,
+    "wins": 125,
+    "losses": 101,
     "ties": 3,
-    "pointsFor": 17355.22,
-    "pointsAgainst": 16880.38,
-    "playoffAppearances": 10,
+    "pointsFor": 18629.339999999997,
+    "pointsAgainst": 18189.2,
+    "playoffAppearances": 11,
     "championships": 0,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Andrew Steier",
-    "wins": 113,
-    "losses": 101,
+    "wins": 119,
+    "losses": 109,
     "ties": 1,
-    "pointsFor": 17429.44,
-    "pointsAgainst": 17125.08,
+    "pointsFor": 18823.96,
+    "pointsAgainst": 18434.16,
     "playoffAppearances": 9,
     "championships": 2,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Bobby Curley",
-    "wins": 111,
-    "losses": 103,
+    "wins": 115,
+    "losses": 113,
     "ties": 1,
-    "pointsFor": 16288.24,
-    "pointsAgainst": 16516.7,
+    "pointsFor": 17345.3,
+    "pointsAgainst": 17786.52,
     "playoffAppearances": 10,
     "championships": 3,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Jerome Hall",
-    "wins": 104,
-    "losses": 110,
+    "wins": 113,
+    "losses": 115,
     "ties": 1,
-    "pointsFor": 17372,
-    "pointsAgainst": 17035.32,
-    "playoffAppearances": 7,
-    "championships": 1,
-    "seasons": 16
+    "pointsFor": 18765.879999999997,
+    "pointsAgainst": 18301.22,
+    "playoffAppearances": 8,
+    "championships": 2,
+    "seasons": 17
   },
   {
     "owner": "Chris Michalski",
-    "wins": 104,
-    "losses": 109,
+    "wins": 111,
+    "losses": 116,
     "ties": 2,
-    "pointsFor": 16858.02,
-    "pointsAgainst": 17287.559999999998,
-    "playoffAppearances": 8,
+    "pointsFor": 18143.78,
+    "pointsAgainst": 18547.02,
+    "playoffAppearances": 9,
     "championships": 3,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Dan Geisman",
-    "wins": 98,
-    "losses": 117,
+    "wins": 103,
+    "losses": 126,
     "ties": 0,
-    "pointsFor": 16308,
-    "pointsAgainst": 16835.739999999998,
+    "pointsFor": 17517.239999999998,
+    "pointsAgainst": 18082.18,
     "playoffAppearances": 7,
     "championships": 1,
-    "seasons": 16
+    "seasons": 17
   },
   {
     "owner": "Jennifer Smith",
-    "wins": 97,
-    "losses": 92,
+    "wins": 103,
+    "losses": 100,
     "ties": 0,
-    "pointsFor": 15360.66,
-    "pointsAgainst": 14814.54,
+    "pointsFor": 16666.6,
+    "pointsAgainst": 16157.82,
     "playoffAppearances": 6,
     "championships": 1,
-    "seasons": 14
-  },
-  {
-    "owner": "Stephanie Sansone",
-    "wins": 93,
-    "losses": 94,
-    "ties": 2,
-    "pointsFor": 15058.380000000001,
-    "pointsAgainst": 14920.28,
-    "playoffAppearances": 6,
-    "championships": 0,
-    "seasons": 14
+    "seasons": 15
   },
   {
     "owner": "Maina Musa",
-    "wins": 88,
-    "losses": 101,
+    "wins": 100,
+    "losses": 103,
     "ties": 0,
-    "pointsFor": 14418.2,
-    "pointsAgainst": 14964.78,
+    "pointsFor": 15843,
+    "pointsAgainst": 16049.28,
+    "playoffAppearances": 7,
+    "championships": 0,
+    "seasons": 15
+  },
+  {
+    "owner": "Stephanie Sansone",
+    "wins": 98,
+    "losses": 103,
+    "ties": 2,
+    "pointsFor": 16237.46,
+    "pointsAgainst": 16265.04,
     "playoffAppearances": 6,
     "championships": 0,
-    "seasons": 14
+    "seasons": 15
   },
   {
     "owner": "Alan Y",
@@ -122,14 +122,14 @@
   },
   {
     "owner": "Kelly Rehberg",
-    "wins": 54,
-    "losses": 41,
+    "wins": 60,
+    "losses": 49,
     "ties": 1,
-    "pointsFor": 8585.5,
-    "pointsAgainst": 8165.96,
+    "pointsFor": 9824.599999999999,
+    "pointsAgainst": 9484.620000000003,
     "playoffAppearances": 5,
     "championships": 0,
-    "seasons": 7
+    "seasons": 8
   },
   {
     "owner": "Alex Metoxen",
@@ -144,14 +144,14 @@
   },
   {
     "owner": "Marissa Vinson",
-    "wins": 24,
-    "losses": 32,
+    "wins": 33,
+    "losses": 37,
     "ties": 0,
-    "pointsFor": 4436.26,
-    "pointsAgainst": 4932.380000000001,
-    "playoffAppearances": 0,
+    "pointsFor": 5658.78,
+    "pointsAgainst": 6172.719999999999,
+    "playoffAppearances": 1,
     "championships": 0,
-    "seasons": 4
+    "seasons": 5
   },
   {
     "owner": "Quinlan Johnson",
